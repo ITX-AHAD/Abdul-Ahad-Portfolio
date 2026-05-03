@@ -44,18 +44,18 @@ const technologies = [
 		name: "JavaScript",
 		icon: "/tech/javascript.webp",
 	},
-	{
-		name: "TypeScript",
-		icon: "/tech/typescript.webp",
-	},
+	// {
+	// 	name: "TypeScript",
+	// 	icon: "/tech/typescript.webp",
+	// },
 	{
 		name: "React JS",
 		icon: "/tech/reactjs.webp",
 	},
-	{
-		name: "Next.JS",
-		icon: "/tech/nextjs.svg",
-	},
+	// {
+	// 	name: "Next.JS",
+	// 	icon: "/tech/nextjs.svg",
+	// },
 	// {
 	// 	name: "Redux Toolkit",
 	// 	icon: "/tech/redux.webp",
@@ -64,10 +64,10 @@ const technologies = [
 		name: "Tailwind CSS",
 		icon: "/tech/tailwind.webp",
 	},
-	{
-		name: "Three JS",
-		icon: "/tech/threejs.webp",
-	},
+	// {
+	// 	name: "Three JS",
+	// 	icon: "/tech/threejs.webp",
+	// },
 	{
 		name: "git",
 		icon: "/tech/git.webp",
@@ -80,10 +80,10 @@ const technologies = [
 	// 	name: "wordpress",
 	// 	icon: "/tech/wordpress.webp",
 	// },
-	// {
-	// 	name: "bootstrap",
-	// 	icon: "/tech/bootstrap.webp",
-	// },
+	{
+		name: "bootstrap",
+		icon: "/tech/bootstrap.webp",
+	},
 ];
 
 const experiences = [
@@ -132,7 +132,7 @@ const testimonials = [
 		id: 1,
 		testimonial:
 			"Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
-		name: "Muhammad Ansab",
+		name: "Abdul Ahad",
 		image: "/socialmedia/behance.svg",
 		link: "",
 	},
@@ -140,7 +140,7 @@ const testimonials = [
 		id: 2,
 		testimonial:
 			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
-		name: "Muhammad Ansab",
+		name: "Abdul Ahad",
 		image: "/socialmedia/linkedin.svg",
 		link: "",
 	},
@@ -148,7 +148,7 @@ const testimonials = [
 		id: 3,
 		testimonial:
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
-		name: "Muhammad Ansab",
+		name: "Abdul Ahad",
 		image: "/socialmedia/dribble.svg",
 		link: "",
 	},
@@ -156,7 +156,7 @@ const testimonials = [
 		id: 4,
 		testimonial:
 			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
-		name: "Muhammad Ansab",
+		name: "Abdul Ahad",
 		image: "/socialmedia/portfolio.svg",
 		link: "",
 	},
@@ -164,7 +164,7 @@ const testimonials = [
 		id: 5,
 		testimonial:
 			"Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
-		name: "Muhammad Ansab",
+		name: "Abdul Ahad",
 		image: "/tech/github.webp",
 		link: "",
 	},

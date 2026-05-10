@@ -14,7 +14,7 @@ const Hero = () => {
   });
 
   const { displayText: roleText } = useTypewriter({
-    texts: ["Next JS Developer", "3D Web Developer", "Full Stack Engineer"],
+    texts: ["React JS Developer", "3D Web Developer", "Full Stack Engineer"],
     typingSpeed: 100,
     deletingSpeed: 60,
     pauseDuration: 2000,
